@@ -1711,7 +1711,7 @@ function OrionLib:MakeWindow(WindowConfig)
 	
 	OrionLib:MakeNotification({
 		Name = "MoonHook by EszkereDzon",
-		Content = "DiscordSoon",
+		Content = "Discord https://discord.gg/WvuMPPSM7E ",
 		Time = 10
 	})
 	
